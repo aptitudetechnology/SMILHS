@@ -1,1 +1,1 @@
-website for demployment to cloudflare pages
+website for deployment to cloudflare pages
